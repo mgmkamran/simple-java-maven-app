@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World, first edit post commit!";
+    private final String message = "Hello World, first edit post commit.!";
 
     public App() {}
 
